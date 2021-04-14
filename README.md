@@ -1,6 +1,6 @@
 # Restaurant Searching App
 
-A program that pulls data from MongoDB Atlas to display Restaurants, their location, and Cuisine types. 
+A program that pulls data from MongoDB Atlas to display restaurants, their location, and cuisine types. 
 
 UI created using SceneBuilder that utilizes FXML in order for easy navigation to pull data that user needs.
 
